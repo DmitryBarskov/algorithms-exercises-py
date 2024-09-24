@@ -21,4 +21,3 @@ integer_operations = {
 if __name__ == "__main__":
     result = eval_rpn(input().split(), integer_operations)
     print(result)
-

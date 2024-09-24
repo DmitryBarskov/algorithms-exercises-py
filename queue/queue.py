@@ -1,5 +1,6 @@
 import sys
 
+
 class Queue:
     """A simple queue based on list"""
     queue = []
